@@ -2,7 +2,7 @@
 <h3 align="center">🚀  | Passionate Learner | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=33DDCC&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Machine+Learning+Developer;Loves+Building+Cool+Machine+Learning+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=33DDCC&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Machine+Learning+Developer;Loves+Building+Machine+Learning+Projects" alt="Typing SVG" />
 </p>
 
 ---
