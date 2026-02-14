@@ -66,7 +66,22 @@
 
 ## 🚀 Featured Projects
 
+📌 Rhythmix
+A web-based interactive UI or music-related project.
+Likely combines visuals with rhythm/music.
+Good for front-end animations or interactive JS.
 
+📌 Weather_Dashboard
+A web dashboard that shows weather information.
+- Front-end project for displaying weather data.
+- Probably pulls data from a weather API for real-time conditions.
+- Great for practicing API integration with HTML/JS/CSS
+
+📌 CNN_Classification
+A machine-learning project for image classification using Convolutional Neural Networks (CNNs).
+Implements deep learning-based image recognition.
+Useful for learning neural networks and computer vision workflows.
+Likely written in Python with popular ML libraries (e.g., TensorFlow / Py
 
 ---
 
