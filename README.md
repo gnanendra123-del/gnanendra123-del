@@ -51,11 +51,9 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ### 🤖 AI/ML & Data Science
 
@@ -68,19 +66,7 @@
 
 ## 🚀 Featured Projects
 
-### 📋 [ClipStack Pro](https://github.com/Sanjeevu-Tarun/ClipStack-Pro)
-**Android Clipboard Manager**
-- Advanced clipboard management with background tracking and smart categorization
-- Built with **Kotlin** and **Jetpack Compose** for modern UI
-- Features include history management, favorites, search functionality, and cloud sync
-- Clean architecture following MVVM pattern
 
-### 💬 [BitChat](https://github.com/Sanjeevu-Tarun/BitChat)
-**Offline Bluetooth Chat Application**
-- Peer-to-peer communication without internet connectivity
-- Real-time messaging using Bluetooth technology
-- Lightweight and efficient with intuitive user interface
-- Perfect for local networking and offline scenarios
 
 ---
 
